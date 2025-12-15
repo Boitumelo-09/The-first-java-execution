@@ -47,7 +47,7 @@ public class Main {
         }
 
         System.out.println("-------------------------");
-        System.out.println("shutting down safely.");
+        System.out.println("Thank You\nEnd Of Execution.");
 
         scanner.close();
     }
