@@ -20,7 +20,7 @@ public class Main {
 
 
         System.out.println("  Welcome Bro... ");
-        System.out.println("...................");
+        System.out.println("..................");
 
         System.out.print("Enter your name bro : ");
         String name = scanner.nextLine();
