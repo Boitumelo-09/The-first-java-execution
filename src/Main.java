@@ -18,7 +18,6 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
 
-
         System.out.println("  Welcome Bro😁... ");
         System.out.println("..................");
 
@@ -47,7 +46,7 @@ public class Main {
         }
 
         System.out.println("-------------------------");
-        System.out.println("Thank You\nEnd Of Execution.");
+        System.out.println("Thank You\nEnd Of Execution...");
 
         scanner.close();
     }
